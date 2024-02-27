@@ -1,0 +1,65 @@
+/* Example CSS Styles */
+
+/* Border styles */
+.example-element {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #000;
+    border-radius: 5px;
+}
+
+/* Floating elements */
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+/* Width and height */
+.example-element {
+    width: 50px;
+    height: 100px;
+}
+
+/* Margins */
+.margin-left {
+    margin-left: 20px;
+}
+
+.margin-right {
+    margin-right: 20px;
+}
+
+/* Padding */
+.padding-left {
+    padding-left: 10px;
+}
+
+.padding-right {
+    padding-right: 10px;
+}
+
+/* Font styles */
+.example-text {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial, sans-serif;
+}
+
+/* Text decoration */
+.example-link {
+    text-decoration: none; /* Remove underline from hypertext link */
+    color: #000; /* Set color of hypertext link */
+}
+
+/* Background styles */
+.example-element {
+    background-color: #f0f0f0;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
